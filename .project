@@ -28,7 +28,7 @@
 		<link>
 			<name>FreeRTOS_Source</name>
 			<type>2</type>
-			<location>C:/Users/rvg/SimplicityStudio/v4_workspace/FreeRTOSv9.0.0/FreeRTOS/Source</location>
+			<locationURI>WORKSPACE_LOC/FreeRTOSv9.0.0/FreeRTOS/Source</locationURI>
 		</link>
 		<link>
 			<name>SiLabs_Source</name>
